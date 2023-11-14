@@ -83,5 +83,6 @@ Recording from August, 2023 onwards.
    深入阐述了一下HDR的恢复的影响因素和机制，很多人其实都学习了错误的东西。
 
 ## 11.16
+1. [*Focal Modulation Networks*](https://arxiv.org/pdf/2203.11926.pdf) **[github](https://github.com/microsoft/FocalNet)**
 1. [*Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition*](https://arxiv.org/pdf/2307.06947.pdf) **[github](https://talalwasim.github.io/Video-FocalNets/)**
 
