@@ -83,5 +83,5 @@ Recording from August, 2023 onwards.
    深入阐述了一下HDR的恢复的影响因素和机制，很多人其实都学习了错误的东西。
 
 ## 11.16
-1. [*Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition*](https://openaccess.thecvf.com/content/ICCV2023/papers/Wasim_Video-FocalNets_Spatio-Temporal_Focal_Modulation_for_Video_Action_Recognition_ICCV_2023_paper.pdf) **[github](https://talalwasim.github.io/Video-FocalNets/)**
+1. [*Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition*](https://arxiv.org/pdf/2307.06947.pdf) **[github](https://talalwasim.github.io/Video-FocalNets/)**
 
