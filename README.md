@@ -90,4 +90,6 @@ Recording from August, 2023 onwards.
 
 ## 11.23
 1. [*Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulation*](https://proceedings.neurips.cc/paper/2019/file/2afc4dfb14e55c6face649a1d0c1025b-Paper.pdf) **[github](https://github.com/kuleshov/audio-super-res)**
+   用rnn捕获时序信息
+3. [*An Implicit Alignment for Video Super-Resolution*](https://arxiv.org/pdf/2305.00163.pdf)**[github](https://github.com/kai422/IART)**
    
