@@ -85,5 +85,9 @@ Recording from August, 2023 onwards.
 ## 11.16
 1. [*Focal Modulation Networks*](https://arxiv.org/pdf/2203.11926.pdf) **[github](https://github.com/microsoft/FocalNet)**
    能代替transformer的一种结构，通过构建局部和周围的注意力关系。
-3. [*Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition*](https://arxiv.org/pdf/2307.06947.pdf) **[github](https://talalwasim.github.io/Video-FocalNets/)**
+2. [*Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition*](https://arxiv.org/pdf/2307.06947.pdf) **[github](https://talalwasim.github.io/Video-FocalNets/)**
    拓展到了视频域，增加了t维度，其他啥也没干。
+
+## 11.23
+1. [*Temporal FiLM: Capturing Long-Range Sequence Dependencies with Feature-Wise Modulation*](https://proceedings.neurips.cc/paper/2019/file/2afc4dfb14e55c6face649a1d0c1025b-Paper.pdf) **[github](https://github.com/kuleshov/audio-super-res)**
+   
