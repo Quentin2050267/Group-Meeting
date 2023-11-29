@@ -93,4 +93,8 @@ Recording from August, 2023 onwards.
    用rnn捕获时序信息
 2. [*An Implicit Alignment for Video Super-Resolution*](https://arxiv.org/pdf/2305.00163.pdf)**[github](https://github.com/kai422/IART)**
    代替光流的对齐
+
+## 11.30
+1. [*SCOTCH and SODA: A Transformer Video Shadow Detection Framework*](https://arxiv.org/pdf/2211.06885.pdf) **[github](https://lihaoliu-cambridge.github.io/scotch_and_soda/)**
+
    
