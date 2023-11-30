@@ -96,5 +96,7 @@ Recording from August, 2023 onwards.
 
 ## 11.30
 1. [*SCOTCH and SODA: A Transformer Video Shadow Detection Framework*](https://arxiv.org/pdf/2211.06885.pdf) **[github](https://lihaoliu-cambridge.github.io/scotch_and_soda/)**
+   其中的一个物体随时间大小发生变化，然后对这个变化的物体（可以是好几个物体）进行随着时空的注意力追踪还不错
+2. [*Memory Encoding Model*](https://arxiv.org/pdf/2308.01175.pdf) **[github](https://huzeyann.github.io/mem)**
 
    
