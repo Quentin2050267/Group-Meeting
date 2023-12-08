@@ -106,7 +106,7 @@ Recording from August, 2023 onwards.
 
 ## 2023.12.14
 1. [*Self-conditioned Image Generation via Generating Representations*](https://arxiv.org/pdf/2312.03701.pdf) **[github](https://github.com/LTH14/rcg)**
-   kaiming he
+   kaiming he新作，采用自监督的方式生成有监督图像生成的所需的“监督”，成为自监督的图像生成方式。
 
 
    
