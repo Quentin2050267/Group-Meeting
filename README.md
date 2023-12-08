@@ -104,5 +104,9 @@ Recording from August, 2023 onwards.
 1. [*Memory-guided Image De-raining Using Time-Lapse Data*](https://arxiv.org/pdf/2201.01883.pdf) **[github]()**
    用了一个memory机制，来记录rain streak的信息，并用一个loss让不变的背景弱化
 
+## 2023.12.14
+1. [*Self-conditioned Image Generation via Generating Representations*](https://arxiv.org/pdf/2312.03701.pdf) **[github](https://github.com/LTH14/rcg)**
+   kaiming he
+
 
    
