@@ -108,5 +108,6 @@ Recording from August, 2023 onwards.
 1. [*Self-conditioned Image Generation via Generating Representations*](https://arxiv.org/pdf/2312.03701.pdf) **[github](https://github.com/LTH14/rcg)**
    kaiming he新作，采用自监督的方式生成有监督图像生成的所需的“监督”，成为自监督的图像生成方式。
 2. [*Cross-Modal Learning with 3D Deformable Attention for Action Recognition*](https://arxiv.org/pdf/2212.05638.pdf) **[github]()**
+   将姿势和图像数据结合起来作为动作检测，其中token的使用方式（cls）什么的用作两个模态之间的信息交流值得借鉴。
 
    
