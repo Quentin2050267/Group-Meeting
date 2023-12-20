@@ -110,4 +110,6 @@ Recording from August, 2023 onwards.
 2. [*Cross-Modal Learning with 3D Deformable Attention for Action Recognition*](https://arxiv.org/pdf/2212.05638.pdf) **[github]()**
    将姿势和图像数据结合起来作为动作检测，其中token的使用方式（cls）什么的用作两个模态之间的信息交流值得借鉴。
 
+## 2023.12.21
+1. [*MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation*](https://arxiv.org/pdf/2304.05930.pdf) **[github](https://rkyuca.github.io/medvt/)**
    
