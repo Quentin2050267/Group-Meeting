@@ -112,5 +112,9 @@ Recording from August, 2023 onwards.
 
 ## 2024.1.4
 1. [*MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation*](https://arxiv.org/pdf/2304.05930.pdf) **[github](https://rkyuca.github.io/medvt/)**
+   使用多尺度encoder-decoder的transformer结构，多尺度间的注意力、positional embedding可以参考。
 2. [*U-Net v2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation*](https://arxiv.org/pdf/2311.17791.pdf) **[github](https://github.com/yaoppeng/U-Net_v2)**
-   
+   非常简单，在skip connection上多加了一个模块而已。
+
+1. [*Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks*](https://arxiv.org/pdf/2308.14153.pdf) **[github](https://ephemeral182.github.io/UDR_S2Former_deraining/)**
+
