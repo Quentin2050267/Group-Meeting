@@ -117,4 +117,5 @@ Recording from August, 2023 onwards.
    非常简单，在skip connection上多加了一个模块而已。
 
 1. [*Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks*](https://arxiv.org/pdf/2308.14153.pdf) **[github](https://ephemeral182.github.io/UDR_S2Former_deraining/)**
+2. [*Learning Vision from Models Rivals Learning Vision from Data*](https://arxiv.org/pdf/2312.17742.pdf) **[github](https://github.com/google-research/syn-rep-learn)**
 
