@@ -116,7 +116,14 @@ Recording from August, 2023 onwards.
 2. [*U-Net v2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation*](https://arxiv.org/pdf/2311.17791.pdf) **[github](https://github.com/yaoppeng/U-Net_v2)**
    非常简单，在skip connection上多加了一个模块而已。
 
+## 2024.02.01
 1. [*Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks*](https://arxiv.org/pdf/2308.14153.pdf) **[github](https://ephemeral182.github.io/UDR_S2Former_deraining/)**
    利用uncertainty map（把图中一些雨的位置都找出来的感觉），考虑了去雨中不同degradation（rain streak、rain drop）之间的关系。
-3. [*Learning Vision from Models Rivals Learning Vision from Data*](https://arxiv.org/pdf/2312.17742.pdf) **[github](https://github.com/google-research/syn-rep-learn)**
+2. [*Learning Vision from Models Rivals Learning Vision from Data*](https://arxiv.org/pdf/2312.17742.pdf) **[github](https://github.com/google-research/syn-rep-learn)**
+   利用生成数据来进行训练
+
+## 2024.03.07
+1. [*LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction*](https://arxiv.org/pdf/2308.11116.pdf) **[github](https://github.com/haesoochung/LAN-HDR)**
+   
+
 
