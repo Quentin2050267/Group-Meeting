@@ -1,4 +1,4 @@
-![image](https://github.com/Quentin2050267/Group-Meeting/assets/79886344/8ee74cdf-cbd2-4849-8851-953508232cae)# Group-Meeting
+# Group-Meeting
 Paper shared in the weekly group meeting.
 Recording from August, 2023 onwards.
 
