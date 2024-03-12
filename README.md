@@ -125,6 +125,12 @@ Recording from August, 2023 onwards.
 ## 2024.03.07
 1. [*LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction*](https://arxiv.org/pdf/2308.11116.pdf) **[github](https://github.com/haesoochung/LAN-HDR)**
    用Y通道，所谓亮度分量，和一个时间一致损失减少视频flickering，网络用了一个非transformer的qkv对齐。
+
+## 2024.03.14
+1. [*LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction*](https://arxiv.org/pdf/2308.07314) **[github](https://github.com/LIAGM/DAEFR)**
+   
+
+## 2024.03.21
 3. [*Vmamba: Visual state space model*](https://arxiv.org/html/2401.10166v1) **[github](https://github.com/MzeroMiko/VMamba)**
    
 
