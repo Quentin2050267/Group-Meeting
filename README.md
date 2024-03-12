@@ -128,6 +128,8 @@ Recording from August, 2023 onwards.
 
 ## 2024.03.14
 1. [*LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction*](https://arxiv.org/pdf/2308.07314) **[github](https://github.com/LIAGM/DAEFR)**
+   仅使用High Quality自重建得到的codebook在LQ上用会有domain gap，因此在LQ上也做了一下然后融合的方法。
+3. [*RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration*](https://arxiv.org/pdf/2305.11474) **[github](https://github.com/rami0205/RAMiT/tree/main)**
    
 
 ## 2024.03.21
