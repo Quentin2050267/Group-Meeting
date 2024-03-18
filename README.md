@@ -134,7 +134,7 @@ Recording from August, 2023 onwards.
 
 ## 2024.03.21
 1. [*Vmamba: Visual state space model*](https://arxiv.org/html/2401.10166v1) **[github](https://github.com/MzeroMiko/VMamba)**
-   将state space model用于视觉，有可能代替ViT。
+   将state space model用于视觉，线性复杂度，长距离建模，有可能代替ViT。
 2. [*VideoMamba: State Space Model for Efficient Video Understanding*](https://arxiv.org/pdf/2403.06977) **[github](https://github.com/opengvlab/videomamba )**
    
 
