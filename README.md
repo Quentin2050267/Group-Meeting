@@ -1,4 +1,4 @@
-# Group-Meeting
+![image](https://github.com/Quentin2050267/Group-Meeting/assets/79886344/e72e5c01-3b6e-4e70-85a7-54cd4c3f315b)# Group-Meeting
 Paper shared in the weekly group meeting.
 Recording from August, 2023 onwards.
 
@@ -135,7 +135,10 @@ Recording from August, 2023 onwards.
 ## 2024.03.21
 1. [*Vmamba: Visual state space model*](https://arxiv.org/html/2401.10166v1) **[github](https://github.com/MzeroMiko/VMamba)**
    将state space model用于视觉，线性复杂度，长距离建模，更少内存，有可能代替ViT。
-2. [*VideoMamba: State Space Model for Efficient Video Understanding*](https://arxiv.org/pdf/2403.06977) **[github](https://github.com/opengvlab/videomamba )**
-   
+2. [*VideoMamba: State Space Model for Efficient Video Understanding*](https://arxiv.org/pdf/2403.06977) **[github](https://github.com/opengvlab/videomamba)**
+   将state space model用于视频，并运用一个mask预训练策略，双向的扫描策略。
 
-
+## 2024.03.28
+1. [*Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning*](https://arxiv.org/pdf/2309.07911) **[github](https://github.com/alibaba-mmai-research/DiST?tab=readme-ov-file)**
+   视频理解任务。大规模预训练语言-图像模型（如CLIP）在理解空间内容方面表现出色，但将这种模型直接转移到视频识别领域仍然存在着时间建模能力不足的问题。他采用并行的方法，规避了反向传播经过大模型的方法；在时序信息上额外提取信息并和空间特征融合。
+2. [*PASTA: Towards Flexible and Efficient HDR Imaging Via Progressively Aggregated Spatio-Temporal Alignment*](https://arxiv.org/pdf/2403.10376) **[github](https://github.com/opengvlab/videomamba)**
