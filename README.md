@@ -142,3 +142,8 @@ Recording from August, 2023 onwards.
 1. [*Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning*](https://arxiv.org/pdf/2309.07911) **[github](https://github.com/alibaba-mmai-research/DiST?tab=readme-ov-file)**
    视频理解任务。大规模预训练语言-图像模型（如CLIP）在理解空间内容方面表现出色，但将这种模型直接转移到视频识别领域仍然存在着时间建模能力不足的问题。他采用并行的方法，规避了反向传播经过大模型的方法；在时序信息上额外提取信息并和空间特征融合。
 2. [*PASTA: Towards Flexible and Efficient HDR Imaging Via Progressively Aggregated Spatio-Temporal Alignment*](https://arxiv.org/pdf/2403.10376) **[github](https://github.com/opengvlab/videomamba)**
+   利用小波变换实现下采样。
+
+## 2024.04.04
+1. [*EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba*](https://arxiv.org/pdf/2403.09977v1) **[github](https://github.com/TerryPei/EfficientVMamba)**
+
