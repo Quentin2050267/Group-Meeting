@@ -146,4 +146,7 @@ Recording from August, 2023 onwards.
 
 ## 2024.04.04
 1. [*EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba*](https://arxiv.org/pdf/2403.09977v1) **[github](https://github.com/TerryPei/EfficientVMamba)**
+   轻量级的视觉mamba，一路用cnn，一路用mamba，两路合并采用senet，mamba中扫描采用间隔扫描。
+## 2024.04.11
+1. [*GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction*](https://arxiv.org/pdf/2403.17837) **[github](https://github.com/HrishavBakulBarua/GTA-HDR)**
 
