@@ -149,4 +149,8 @@ Recording from August, 2023 onwards.
    轻量级的视觉mamba，一路用cnn，一路用mamba，两路合并采用senet，mamba中扫描采用间隔扫描。
 ## 2024.04.11
 1. [*GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction*](https://arxiv.org/pdf/2403.17837) **[github](https://github.com/HrishavBakulBarua/GTA-HDR)**
+   从游戏中获得的数据集。
+
+## 2024.04.18
+1. [*FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation*](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_FreMIM_Fourier_Transform_Meets_Masked_Image_Modeling_for_Medical_Image_WACV_2024_paper.pdf) **[github](https://github.com/Rubics-Xuan/FreMIM )**
 
