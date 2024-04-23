@@ -152,5 +152,9 @@ Recording from August, 2023 onwards.
    从游戏中获得的数据集。
 
 ## 2024.04.18
-1. [*FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation*](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_FreMIM_Fourier_Transform_Meets_Masked_Image_Modeling_for_Medical_Image_WACV_2024_paper.pdf) **[github](https://github.com/Rubics-Xuan/FreMIM )**
+1. [*FreMIM: Fourier Transform Meets Masked Image Modeling for Medical Image Segmentation*](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_FreMIM_Fourier_Transform_Meets_Masked_Image_Modeling_for_Medical_Image_WACV_2024_paper.pdf) **[github](https://github.com/Rubics-Xuan/FreMIM)**
+   同时预测低频和高频的预训练mask。  
+
+## 2024.04.25
+1. [*Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction*](https://arxiv.org/pdf/2404.02905) **[github](https://github.com/FoundationVision/VAR)**
 
