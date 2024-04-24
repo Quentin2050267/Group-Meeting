@@ -157,4 +157,7 @@ Recording from August, 2023 onwards.
 
 ## 2024.04.25
 1. [*Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction*](https://arxiv.org/pdf/2404.02905) **[github](https://github.com/FoundationVision/VAR)**
+   将next token prediction变为next scale prediction进行图像生成，有类似于gpt一样的性能随数据和模型大小增大而增大的特性，超越diffusion。
+2. [*Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation*](http://arxiv.org/abs/2309.13700) **[github](https://github.com/scott-yjyang/ViWS-Net)**
+   
 
