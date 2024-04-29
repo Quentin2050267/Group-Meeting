@@ -163,5 +163,8 @@ Recording from August, 2023 onwards.
 
 ## 2024.05.02
 1. [*Rewrite the Stars*](https://arxiv.org/pdf/2403.19967) **[github](https://github.com/ma-xu/Rewrite-the-Stars)**
+   逐点相乘可以用于在不增加计算量的同时拓展维度（升维）。
+2. [*Towards Layer-wise Image Vectorization*](https://arxiv.org/abs/2206.04655) **[github](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization)**
+
    
 
