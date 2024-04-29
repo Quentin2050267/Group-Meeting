@@ -157,7 +157,11 @@ Recording from August, 2023 onwards.
 
 ## 2024.04.25
 1. [*Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction*](https://arxiv.org/pdf/2404.02905) **[github](https://github.com/FoundationVision/VAR)**
-   将next token prediction变为next scale prediction进行图像生成，有类似于gpt一样的性能随数据和模型大小增大而增大的特性，超越diffusion。
+   将next token prediction变为next scale prediction进行图像生成，有类似于gpt一样的scaling law，超越diffusion。
 2. [*Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation*](http://arxiv.org/abs/2309.13700) **[github](https://github.com/scott-yjyang/ViWS-Net)**
+   用一个可学习的token（weather messenger）在帧之间提取时序信息，用一个对抗网络使网络分辨出天气类型。
+
+## 2024.05.02
+1. [*Rewrite the Stars*](https://arxiv.org/pdf/2403.19967) **[github](https://github.com/ma-xu/Rewrite-the-Stars)**
    
 
