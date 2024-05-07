@@ -169,6 +169,9 @@ Recording from August, 2023 onwards.
 
 ## 2024.05.09
 1. [*White-Box Transformers via Sparse Rate Reduction*](https://proceedings.neurips.cc/paper_files/paper/2023/file/1e118ba9ee76c20df728b42a35fb4704-Paper-Conference.pdf) **[github](https://github.com/Ma-Lab-Berkeley/CRATE)**
+   很难懂的一篇，最数学的一集。
+1. [*Image as Set of Points*](https://arxiv.org/pdf/2303.01494) **[github](https://ma-xu.github.io/Context-Cluster/)**
+   
 
 
 
