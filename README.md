@@ -170,9 +170,12 @@ Recording from August, 2023 onwards.
 ## 2024.05.09
 1. [*White-Box Transformers via Sparse Rate Reduction*](https://proceedings.neurips.cc/paper_files/paper/2023/file/1e118ba9ee76c20df728b42a35fb4704-Paper-Conference.pdf) **[github](https://github.com/Ma-Lab-Berkeley/CRATE)**
    很难懂的一篇，最数学的一集。
-1. [*Image as Set of Points*](https://arxiv.org/pdf/2303.01494) **[github](https://ma-xu.github.io/Context-Cluster/)**
+2. [*Image as Set of Points*](https://arxiv.org/pdf/2303.01494) **[github](https://ma-xu.github.io/Context-Cluster/)**
    提出用聚类来代替卷积、ViT，效果一般，但很创新。
 
+## 2024.05.16
+1. [*Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models*](https://arxiv.org/pdf/2311.17919) **[github](https://dangeng.github.io/visual_anagrams)**
+   利用扩散模型不同去噪方式加在一起生成有意思的视错觉等，原理非常intuitive。
 
 
    
