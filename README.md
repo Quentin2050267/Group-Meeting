@@ -177,6 +177,8 @@ Recording from August, 2023 onwards.
 1. [*Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models*](https://arxiv.org/pdf/2311.17919) **[github](https://dangeng.github.io/visual_anagrams)**
    利用扩散模型不同去噪方式加在一起生成有意思的视错觉等，原理非常intuitive。
 
+## 2024.05.23
+1. [*Rethinking RGB Color Representation for Image Restoration Models*](https://arxiv.org/pdf/2402.03399) 
 
    
 
