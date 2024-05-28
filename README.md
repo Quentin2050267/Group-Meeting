@@ -178,7 +178,11 @@ Recording from August, 2023 onwards.
    利用扩散模型不同去噪方式加在一起生成有意思的视错觉等，原理非常intuitive。
 
 ## 2024.05.23
-1. [*Rethinking RGB Color Representation for Image Restoration Models*](https://arxiv.org/pdf/2402.03399) 
+1. [*Rethinking RGB Color Representation for Image Restoration Models*](https://arxiv.org/pdf/2402.03399)
+   类似于lpips loss，即把特征放在一个aRGB空间里计算损失，这个空间由一个autoencoder训练得出，该空间尽可能保留每个像素相邻结构信息。
+
+## 2024.05.23
+1. [*Semantic-Aware Dynamic Parameter for Video Inpainting Transformer*](http://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Semantic-Aware_Dynamic_Parameter_for_Video_Inpainting_Transformer_ICCV_2023_paper.pdf)
 
    
 
